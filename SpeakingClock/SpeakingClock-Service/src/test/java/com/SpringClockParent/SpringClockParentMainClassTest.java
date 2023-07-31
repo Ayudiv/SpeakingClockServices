@@ -1,6 +1,6 @@
 package com.SpringClockParent;
 
-import com.SpeakingClockParent.service.SpeakingClockService;
+import com.SpeakingClockParent.SpeakingClock.service.SpeakingClockService;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

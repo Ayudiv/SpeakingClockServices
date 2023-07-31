@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpeakingClock/Edge-Service/Edge-Service.iml" filepath="$PROJECT_DIR$/SpeakingClock/Edge-Service/Edge-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpeakingClock/Service-Finder/Service-Finder.iml" filepath="$PROJECT_DIR$/SpeakingClock/Service-Finder/Service-Finder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpeakingClock/SpeakingClock.iml" filepath="$PROJECT_DIR$/SpeakingClock/SpeakingClock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpeakingClock/SpeakingClock-Service/SpeakingClock (1).iml" filepath="$PROJECT_DIR$/SpeakingClock/SpeakingClock-Service/SpeakingClock (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpeakingClockServices_X.iml" filepath="$PROJECT_DIR$/.idea/SpeakingClockServices_X.iml" />
+    </modules>
+  </component>
+</project>

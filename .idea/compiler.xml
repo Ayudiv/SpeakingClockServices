@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SpeakingClock (1)" />
+      </profile>
+      <profile name="Annotation profile for SpeakingClock" enabled="true">
+        <sourceOutputDir name="SpeakingClock-Service/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="SpeakingClock-Service/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SpeakingClock" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Edge-Service" target="17" />
+      <module name="Service-Finder" target="17" />
+      <module name="SpeakingClock" target="17" />
+      <module name="SpeakingClock (1)" target="17" />
+      <module name="SpeakingClock-Service" target="14" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Service-Finder" options="" />
+      <module name="SpeakingClock" options="-parameters" />
+      <module name="SpeakingClock (1)" options="-parameters" />
+      <module name="SpeakingClock-Service" options="" />
+    </option>
+  </component>
+</project>
